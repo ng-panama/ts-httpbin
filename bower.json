@@ -1,0 +1,13 @@
+{
+  "name": "ts-httpbin",
+  "dependencies": {
+    "angular": "~1.4.7"
+  },
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    ".jshintrc",
+    "node_modules",
+    "components"
+  ]
+}
